@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"ture",
+				"true"
+			],
+			[
 				"as",
 				"assert\tkeyword"
 			]
@@ -11,6 +15,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "koans/about_array_assignment.rb",
+			"settings":
+			{
+				"buffer_size": 1389,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -19,16 +32,20 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 113.0,
+		"height": 138.0,
 		"last_filter": "install",
 		"selected_items":
 		[
 			[
 				"install",
 				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
 			]
 		],
-		"width": 400.0
+		"width": 440.0
 	},
 	"console":
 	{
@@ -49,10 +66,16 @@
 	},
 	"expanded_folders":
 	[
-		"/D/DevProjects/ruby_koans"
+		"/D/DevProjects/ruby_koans",
+		"/D/DevProjects/ruby_koans/koans"
 	],
 	"file_history":
 	[
+		"/D/DevProjects/ruby_koans/koans/about_arrays.rb",
+		"/D/DevProjects/ruby_koans/koans/about_objects.rb",
+		"/D/DevProjects/ruby_koans/koans/about_nil.rb",
+		"/D/DevProjects/ruby_koans/koans/about_array_assignment.rb",
+		"/D/DevProjects/ruby_koans/koans/about_asserts.rb",
 		"/C/Users/ajdog/Downloads/bloodweakauras",
 		"/D/DevProjects/python_koans/python3/koans/about_asserts.py",
 		"/D/NewApp/test.py3"
@@ -90,8 +113,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "koans/about_array_assignment.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								581,
+								581
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -172,7 +226,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 232.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
