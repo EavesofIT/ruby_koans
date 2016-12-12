@@ -19,7 +19,7 @@
 			"file": "koans/about_array_assignment.rb",
 			"settings":
 			{
-				"buffer_size": 1389,
+				"buffer_size": 1393,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -32,10 +32,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 138.0,
-		"last_filter": "install",
+		"height": 359.0,
+		"last_filter": "sublimelinter",
 		"selected_items":
 		[
+			[
+				"sublimelinter",
+				"SublimeLinter: Toggle Linter"
+			],
 			[
 				"install",
 				"Package Control: Install Package"
@@ -45,7 +49,7 @@
 				"Package Control: Remove Package"
 			]
 		],
-		"width": 440.0
+		"width": 496.0
 	},
 	"console":
 	{
@@ -71,6 +75,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/ajdog/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
 		"/D/DevProjects/ruby_koans/koans/about_arrays.rb",
 		"/D/DevProjects/ruby_koans/koans/about_objects.rb",
 		"/D/DevProjects/ruby_koans/koans/about_nil.rb",
@@ -82,7 +87,7 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 26.0
 	},
 	"find_in_files":
 	{
@@ -104,7 +109,7 @@
 		"replace_history":
 		[
 		],
-		"reverse": false,
+		"reverse": true,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
@@ -122,19 +127,20 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1389,
+						"buffer_size": 1393,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								581,
-								581
+								640,
+								640
 							]
 						],
 						"settings":
 						{
+							"auto_complete": false,
 							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -151,7 +157,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 26.0
 	},
 	"input":
 	{
@@ -188,7 +194,7 @@
 	"project": "ruby_koans.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":
